@@ -1,4 +1,6 @@
-This is an E-commerce Website which is called Apple_Mart. 
+# About
+This is an E-commerce Website which is called Apple_Mart. I used Node Js., JavaScript, React Js, HTML,CSS, Bootstrap etc.
+
 # Output
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/108189526/235304433-96c8bcc4-a178-4f24-845d-db7b51473c05.png)
